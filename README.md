@@ -20,7 +20,7 @@ To get started with TheCodingNinja Bot, follow these steps:
 
 1. **Invite the Bot**: Use [this link](https://discord.com/oauth2/authorize?client_id=YOUR_BOT_CLIENT_ID&scope=bot&permissions=YOUR_BOT_PERMISSIONS) to invite the bot to your server.
 2. **Configuration**: Follow the setup guide in the [Wiki](https://github.com/TheCodeNinjas/TheCodingNinjaBot/wiki) to configure the bot for your server.
-3. **Commands**: Check out the list of available commands in the [Commands Documentation](https://github.com/TheCodeNinjas/TheCodingNinjaBot/blob/main/COMMANDS.md).
+3. **Commands**: Check out the list of available commands in the [Commands Documentation](COMMANDS.md).
 
 ## Contributing
 
